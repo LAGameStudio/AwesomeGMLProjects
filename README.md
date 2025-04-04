@@ -87,3 +87,52 @@ Games or libraries made for jams available for free that have source code
 * https://github.com/JujuAdams/Chatterbox yarn-related narrative engine
 * https://github.com/ClintosM/clintos-geo-shooter top down 2d shooter prototype
 
+Other GameMaker Projects
+
+* https://github.com/mysterypaint/ProjectFlowerQueen metroidvania engine
+* https://github.com/silbinarywolf/hmac-gml hash based messaging
+* https://github.com/katsaii/catspeak-lang cross-platform scripting language and compiler back-end
+* https://github.com/uduse/Sublime-GameMaker-Studio-Language-Bundle sublime bundle
+* https://github.com/PixelProphecy/gml_starfield_generator generate starfields
+* https://github.com/Pizzaandy/Gobo opinionated code formatter
+* https://github.com/ThomasHickman/gml-pegjs pegjs parser for GML
+* https://github.com/ENDESGA/NYKRA_Before sci-fi sandbox game
+* https://github.com/elhoangvu/Gamemaker-VDAY-1975 game
+* https://github.com/Mtax-Development/GML-Development-Toolbox GML Development Toolbox
+* https://github.com/nommiin/Tortoise bytecode interpreter
+* https://github.com/akpendley/Spider rope physics
+* https://github.com/necrobyte/GLUE Universal Iterator Library Extension
+* https://github.com/tali-software-foundation/tali-gml Tali Interpreter
+* https://github.com/3ichael7ambert/GMSvsJS GameMaker vs JS comparison
+* https://github.com/sevalkkk/Survivor-Game game
+* https://github.com/fgomezvalverde/LOOPY puzzle game
+* https://github.com/kyubxy/CGLT tools
+* https://github.com/HoyongNyong/Advent-Of-Code-in-GML Advent of Code
+* https://github.com/devrafamenegon/gamemaker-flappy-nyan flappy-bird clone
+* https://github.com/devrafamenegon/gamemaker-space-shooters space game
+* https://github.com/AuHunt/GameMakerAsteroid astroid game
+* https://github.com/deipfei/tracery_gml Tracery port (text expansion library) https://github.com/galaxykate/tracery
+* https://github.com/nommiin/steg Least-significant nibble steganography implementation for GameMaker Language
+* https://github.com/sevalkkk/RPG-Game rpg game
+* https://github.com/Rupitian/diannex.gml Diannex dialogue language
+* https://github.com/tjismith13/Flier game for school project
+* https://github.com/KaanKayali/Massive-Blackhole-Raytracer blackhole simulator
+* https://github.com/artixo/ExceltoGML converts an Excel document to a GameMaker Array
+* https://github.com/mapuya19/InfiniRobot infinite runner game
+* https://github.com/gboydhub/Project-Keres-Halls-of-Aion- rpg game
+* https://github.com/klsmith/gmui UI
+* https://github.com/Masaya-Heywood/Scam-Me card game that "makes the player feel scammed"
+* https://github.com/jaleck0/Gigatron-emulator-in-GML Gigatron TTL microcomputer emulator
+* https://github.com/soft-eng-practicum/VSEPR-Venture VSEPR 2D RPG chemistry game
+* https://github.com/bdabrowski97/ConwayGameOfLifeGML Conway's Game of Life
+* https://github.com/Christofferos/2D-TopDownShooter 2D top down shooter (2017)
+* https://github.com/rafaelcp/Super-Mega-Engine Mega Man GameMaker Studio 1.4.1760
+* https://github.com/MegamixEngine/MegamixEngine  Mega Man Engine, forked from the Mega Engine.
+* https://github.com/nommiin/ImGui_GM ImGui wrapper for modern GameMaker
+* https://github.com/GameMakerDiscord/microtester GML scripts
+* https://github.com/golanlevin/GMLStenciler converts GML into EPS stencils
+* https://github.com/mstop4/useful-gml-scripts "useful GML scripts"
+* https://github.com/Grix/vrlss Virtual Reality Laser Show Simulator (VRLSS)
+* https://github.com/YAL-GameMaker-Tools/GMVitalizer backporter GMS2 to GMS1
+* https://github.com/MagnusMagnusson/The_Elderly_and_the_Orderly (high action old-people management game) 2016
+
