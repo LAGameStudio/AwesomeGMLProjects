@@ -298,6 +298,7 @@ From: https://github.com/bytecauldron/awesome-gamemaker
 - [Exception](https://github.com/KeeVeeGames/Exception.gml) - A base class for custom exceptions.
 - [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
 - [GM Sysinfo](https://github.com/SpikeHD/gm-sysinfo) - Cross-platform extension for getting system information and resource usage.
+- [BSONGML](https://github.com/LAGameStudio/BSONGML) - Modern gamemaker language implementation of simple, robust and performant buffering of large complex structured mixed-type data stored in binary files that resolves issues with json_stringify.
 
 ## Debugging
 
@@ -317,7 +318,7 @@ From: https://github.com/bytecauldron/awesome-gamemaker
 
 - [Input](https://github.com/JujuAdams/input) - No nonsense gamepad/keyboard library.
 - [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
-- [InputCandy](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals.
+- [InputCandy](https://github.com/LAGameStudio/InputCandy) -InputCandy focuses on providing input testing and customization for users of PC and gamepad-friendly platforms (consoles). It's that classic "control setup" panel system you are accustomed to seeing in video games small and large, but for GameMaker. It also is an object-oriented input API, with action matching, and a bunch of device detection features for keyboard, mouse and any SDL controller.
 - [Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
 - [Mouse Queue](https://github.com/YAL-GameMaker/window_mouse_queue) - Tracks the Windows mouse pointer with high precision.
 - [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) - System-level custom cursors. 💸
